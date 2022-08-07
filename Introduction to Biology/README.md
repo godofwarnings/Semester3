@@ -19,3 +19,10 @@
 - steady-state vs equilibrium
 
 Watch "Wonders of Life" - Brian Cox
+
+### Lecture 3
+
+- Phylogenetic Tree <br>
+-> https://www.khanacademy.org/science/ap-biology/natural-selection/phylogeny/v/taxonomy-and-the-tree-of-life <br>
+I highly encourage to watch the videos and attempt the practise problem set in the end. Thats what we have to do in the assignment...(I think) <br>
+->https://www.thetech.org/ask-a-geneticist/how-build-phylogenetic-tree 
